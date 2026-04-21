@@ -53,22 +53,19 @@ To create an event, a user must:
 * Indicate if the live event is eligible for MCLE credit. If Yes is selected, additional fields will display: 
 
   * Total number of MCLE hours
-  * MCLE ethics hours (which should be included in the total)
+   * Total professional responsibility hours (which should be included in the total)
+    * Mental health/substance abuse hours (which should be included in the total professional responsibility hours)
+    * Diversity and inclusion hours (which should be included in the total professional responsibility hours)
   * A contact email for credit requests
   * An MCLE deadline
 
-.. todo:: review validation for MCLE 
-
-.. image:: ../assets/cms-calendar-mcle.png 
+.. image:: ../assets/cms-calendar-mcle2.png 
 
 * Optionally, upload 1 or more files that will be attached to the event. Once uploaded, you can add a description that will replace the file name when shown to the user. Multiple files can be added, one at a time.
 
-* Indicate if the user is registering or buying a ticket. This is no longer used on the front end and will be removed in the future.
-* Indicate whether registration is required. If registration is required, add the link to register
+* Indicate whether registration is required. If registration is required, add the link to register.
 
-.. image:: ../assets/cms-calendar-registration.png
- 
-.. todo:: Register or buy tickets should be removed. 
+.. image:: ../assets/cms-calendar-registration2.png
 
 * **For staff users only** there is an option to select or upload an image. This is helpful for sharing on social media.
 
